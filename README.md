@@ -1,4 +1,4 @@
-### 🍖Hi, I'm Hyeon Geun
+### 🍖Hi, I'm Jeon Hyeon Geun
 ------------
 + 🌱I currently learning `Algorithm`
 + 👩🏻‍🎓 I'm majoring in Computer Science, at Inje Univ.
@@ -8,7 +8,7 @@
 + 👯 Gyeongnam Software Contest 3rd
 + and... end...
 
-### My Github..
+### 😄My Github..
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=Shohoku1022&theme=react&show_icons=true" height="180px">
 </a>
@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohoku1022&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
 
-### BOJ..
+### 🤔BOJ..
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku1022)](https://solved.ac/shohoku1022)
 <!--
