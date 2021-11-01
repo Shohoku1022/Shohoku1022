@@ -8,10 +8,8 @@
 + 👯 Gyeongnam Software Contest 3rd
 + and... end...
 
-<p align="center">
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku1022)](https://solved.ac/shohoku1022)
-</p>
 <!--
 **Shohoku1022/Shohoku1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
