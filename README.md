@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 🍖Hi, I'm Hyeon Geun
+------------
++ 🌱I currently learning 'Algorithm'
 <!--
 **Shohoku1022/Shohoku1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
