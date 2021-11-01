@@ -8,6 +8,15 @@
 + 👯 Gyeongnam Software Contest 3rd
 + and... end...
 
+### stat
+<a>
+<img src="https://github-readme-stats.vercel.app/api?username=Shohoku1022&theme=react&show_icons=true" height="180px">
+</a>
+<a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohoku1022&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+</a>
+
+### tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shohoku1022)](https://solved.ac/shohoku1022)
 <!--
